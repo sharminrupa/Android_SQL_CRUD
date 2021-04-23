@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CRUDSQLite</string>
+    <string name="lbl_add_student_form">Add a new student</string>
+    <string name="lbl_edit_student_form">Edit a student</string>
+    <string name="lbl_add">Add</string>
+    <string name="lbl_update">Update</string>
+    <string name="lbl_reset">Reset</string>
+</resources>
